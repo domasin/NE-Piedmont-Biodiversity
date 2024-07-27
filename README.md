@@ -1,5 +1,5 @@
-# NW-Piedmont-Biodiversity
+# NE-Piedmont-Biodiversity
 
-EN: A series of notebooks to analyze the biodiversity of north-western Piedmont.
+EN: A series of notebooks to analyze the biodiversity of north-eastern Piedmont.
 
-IT: Una serie di notebook per analizzare la biodiversità del piemonte nord-occidentale.
+IT: Una serie di notebook per analizzare la biodiversità del piemonte nord-orientale.
