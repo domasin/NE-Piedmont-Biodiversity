@@ -13,6 +13,7 @@
         "ipyplot",
         "isin",
         "mpatches",
+        "nunique",
         "pyinaturalist",
         "shapefile",
         "treemap",
