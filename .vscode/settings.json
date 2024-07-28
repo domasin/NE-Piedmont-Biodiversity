@@ -12,6 +12,7 @@
         "geospaziali",
         "ipyplot",
         "isin",
+        "isna",
         "itertuples",
         "markersize",
         "mpatches",
