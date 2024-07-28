@@ -12,10 +12,13 @@
         "geospaziali",
         "ipyplot",
         "isin",
+        "itertuples",
+        "markersize",
         "mpatches",
         "nunique",
         "pyinaturalist",
         "shapefile",
+        "Toce",
         "treemap",
         "valgrande"
     ]
